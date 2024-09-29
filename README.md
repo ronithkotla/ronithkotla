@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Ronith Kotla</h1>
 <h3 align="center">Tech enthusiast with interest in career growth towards Artificial Intelligence, Machine Learning, Data Science and relevant fields by consistently developing knowledge and skills related to my areas of interest. And excited to gain realtime experience from relevant Projects, Internships and Job opportunities.</h3>
-<img align="right" alt="Coding" width="400" src="https://pngtree.com/free-png-vectors/programmer">
+<img align="right" alt="Coding" width="400" src="[httpsprogrammer://pngtree.com/free-png-vectors/](https://www.google.com/imgres?q=programmer%20images%20animated&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2F3d-rendering-kid-playing-digital-game_23-2150898496.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&docid=fGhGejc-bkdiaM&tbnid=GyAM3RokDXoBoM&vet=12ahUKEwjSlruSiuiIAxUSwjgGHeVXAVkQM3oECDYQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwjSlruSiuiIAxUSwjgGHeVXAVkQM3oECDYQAA)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronithkotla&label=Profile%20views&color=0e75b6&style=flat" alt="ronithkotla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronithkotla" alt="ronithkotla" /></a> </p>
