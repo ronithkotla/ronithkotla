@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Ronith Kotla</h1>
 <h3 align="center">Tech enthusiast with interest in career growth towards Artificial Intelligence, Machine Learning, Data Science and relevant fields by consistently developing knowledge and skills related to my areas of interest. And excited to gain realtime experience from relevant Projects, Internships and Job opportunities.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-photo/3d-cartoon-software-developer-generative-ai_644690-101538.jpg?size=626&ext=jpg&ga=GA1.1.998501346.1727610709&semt=ais_hybrid">
+<img align="right" alt="Coding" width="350" src="https://img.freepik.com/premium-photo/3d-cartoon-software-developer-generative-ai_644690-101538.jpg?size=626&ext=jpg&ga=GA1.1.998501346.1727610709&semt=ais_hybrid">
 
 
 
