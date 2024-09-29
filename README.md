@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Ronith Kotla</h1>
 <h3 align="center">Tech enthusiast with interest in career growth towards Artificial Intelligence, Machine Learning, Data Science and relevant fields by consistently developing knowledge and skills related to my areas of interest. And excited to gain realtime experience from relevant Projects, Internships and Job opportunities.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-cartoon-software-developer-generative-ai_644690-101538.jpg?size=626&ext=jpg&ga=GA1.1.998501346.1727610709&semt=ais_hybrid">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronithkotla&label=Profile%20views&color=0e75b6&style=flat" alt="ronithkotla" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronithkotla" alt="ronithkotla" /></a> </p>
 
