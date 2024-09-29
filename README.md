@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/3d-cartoon-software-developer-generative-ai_644690-101538.jpg?size=626&ext=jpg&ga=GA1.1.998501346.1727610709&semt=ais_hybrid">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronithkotla" alt="ronithkotla" /></a> </p>
+
 
 - 🌱 I’m currently learning **Artificial Intelligence/Machine Learning**
 
